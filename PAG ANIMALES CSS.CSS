@@ -1,0 +1,36 @@
+#cabecera {
+color:#f4f4f4;
+background-color:#666F88;
+padding:15px;
+}
+#contenedor {
+margin:0 auto;
+width:1520px;
+}
+#contenido{
+background-color:#5d9b9b;
+float:;#left
+height:700px;
+padding:10px;
+width:1500px;
+}
+#menu{
+background-color:#a18594;
+float:left;
+height:700px;
+padding:10px;
+width:150px;
+}
+IMG{width:400px }
+a{
+target:_blank;
+}
+h1{
+color:#ffffff;
+font-size:60px;
+}
+h2{
+color:#00446a;
+font-size:40px;
+font-family: impact, URW Americana Bold & Extra Bold;
+}
